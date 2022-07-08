@@ -157,6 +157,7 @@ h2 {
     .rotacao {
         padding-top: 10px;
     }
+
  }
 
 /* Dispositivos médios (tablets com 768px ou mais)*/
@@ -170,6 +171,9 @@ h2 {
     .texto-ds2 {
         width: 210px;
     }
+    .texto-ds2 {
+        top: 80%;
+    } 
  }
 
 /* Dispositivos large (desktops com 992px ou mais)*/
